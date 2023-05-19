@@ -1,0 +1,1 @@
+Welcome to the Azure Virtual Desktop repository! This repository is dedicated to all things related to Azure Virtual Desktop (formerly known as Windows Virtual Desktop). Here, you'll find resources, scripts, and guides to help you set up and manage Azure Virtual Desktop deployments.
