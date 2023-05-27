@@ -1,0 +1,1 @@
+This template is an export of the Nerdio Manager for Enterprise marketplace.
