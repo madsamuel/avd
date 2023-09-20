@@ -1,0 +1,25 @@
+{
+    "properties": {
+        "roleName": "CIT_and_AIB",
+        "description": "Can manage AIB with CIT.",
+        "assignableScopes": [
+            "/subscriptions/25e8c5f2-1e4e-4b1e-bbef-00d911724630"
+        ],
+        "permissions": [
+            {
+                "actions": [
+    			"Microsoft.Compute/galleries/read",
+			"Microsoft.Compute/galleries/images/read",
+			"Microsoft.Compute/galleries/images/versions/read",
+			"Microsoft.Compute/galleries/images/versions/write",
+			"Microsoft.Compute/images/write",
+			"Microsoft.Compute/images/read",
+			"Microsoft.Compute/images/delete"
+ 		 ],
+                "notActions": [],
+                "dataActions": [],
+                "notDataActions": []
+            }
+        ]
+    }
+}
